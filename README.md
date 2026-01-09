@@ -37,21 +37,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - install Microsoft Visual C++ Redistributable
 
 <h2>Installation Steps</h2>
-<h1>First, start by creating a Resource Group inside Azure.</h1>
 
 <p>
 <img src="https://i.imgur.com/eBi5k2l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+First, start by creating a Resource Group inside Azure
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dEF1c7h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now, create a Windows 10 Virtual Machine (VM), typically with 2-4 Virtual CPUs. For username and password, it can be anything as we'll be using this info to remote in with our main computer. When creating the Virtual Machine (VM), allow Azure to create a new Virtual Network (Vnet)
+
 </p>
 <br />
 
