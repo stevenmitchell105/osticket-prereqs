@@ -133,4 +133,16 @@ Download and install MySQL, Agree with any terms and agreements up until you get
 
 </p>
 
+<h3 align="center">Install osTicket v1.15.8</h3>
 
+<img src="https://i.imgur.com/0MUJLMU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1h9goM8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+Extract and copy the “upload” folder INTO c:\inetpub\wwwroot:
+</p>
+<img src="https://i.imgur.com/pDikkgq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”:
+</p>
+
+<h3 align="center">Reload IIS (Open IIS, Stop and Start the server)</h3>
