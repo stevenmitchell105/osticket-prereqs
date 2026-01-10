@@ -167,10 +167,6 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”:
 <h3 align="center">Enable Extensions in IIS: Note that some extensions are not enabled</h3>
 
 <p>
-	<img src="https://imgur.com/a/nrQo0kz" height="75%" width="100%"/>
-</p>
-
-<p>
 	Go back to IIS, sites -> Default -> osTicket.
 </p>
 <p>
@@ -188,4 +184,27 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”:
 </p>
 <p>
 	Enable: php_opcache.dll:
+</p>
+
+<p>
+	<img src="https://imgur.com/a/nrQo0kz" height="75%" width="100%"/>
+</p>
+
+<h3 align="center">Refresh the osTicket site in your browser, observe the changes</h3>
+
+<p>
+	<img src="https://i.imgur.com/6iSNd4H.png" height="75%" width="100%" />
+</p>
+<br />
+<br />
+<h3 align="center">Rename</h3>
+<br />
+<p>
+	From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php.
+</p>
+<p>
+	To: C:\inetpub\wwwroot\osTicket\include\ost-config.php:
+</p>
+<p>
+	<img src="https://i.imgur.com/TEw71SD.png" height="75%" width="100%" />
 </p>
