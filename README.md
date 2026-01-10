@@ -146,3 +146,21 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”:
 </p>
 
 <h3 align="center">Reload IIS (Open IIS, Stop and Start the server)</h3>
+
+<p>
+	<img src="https://i.imgur.com/QeWNlG3.png" height="75%" width="100%" />
+</p>
+<p>
+	Go to sites -> Default -> osTicket:
+</p>
+
+<p>
+	<img src="https://i.imgur.com/3iXhNbi.png" height="75%" width="100%"/>
+</p>
+<p>
+	On the right, click “Browse *:80”:
+</p>
+<p>
+	<img src="https://i.imgur.com/3iXhNbi.png" height="75%" width="100%"/>
+</p>
+
