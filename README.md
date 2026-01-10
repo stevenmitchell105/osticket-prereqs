@@ -257,3 +257,55 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”:
 </p>
 <p>
 
+	Create a database called “osTicket”:
+</p>
+<p>
+	<img src="https://i.imgur.com/vXzmQqg.png" height="75%" width="100%" />
+</p>
+<br />
+<br />
+<h3 align="center">Continue Setting up osTicket in the browser</h3>
+<br />
+<p>MySQL Database: osTicket</p>
+<p>
+	MySQL Username: root
+</p>
+<p>
+	MySQL Password: Password1:
+</p>
+<p>
+	<img src="https://i.imgur.com/akDyber.png" height="75%" width="100%" />
+</p>
+<p>Click “Install Now!”</p>
+<p>Congratulations, hopefully it is installed with no errors!</hp>
+<p>
+	<img src="https://i.imgur.com/J5omRoE.png" height="75%" width="100%" />
+</p>
+<br />
+<br />
+<h3 align="center">Clean up</h3>
+<br />
+<p>
+	Delete: C:\inetpub\wwwroot\osTicket\setup:
+</p>
+<p>
+	<img src="https://i.imgur.com/eg0ZPG3.png" height="75%" width="100%" />
+</p>
+<p>
+	Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php:
+</p>
+<p>
+
+	<img src="https://i.imgur.com/n6k46XL.png" height="75%" width="100%" />
+</p>
+<br />
+<br />
+<h3 align="center">Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)</h3>
+<br />
+<p>
+	<img src="https://i.imgur.com/8wvWH0H.jpg" height="75%" width="100%" />
+</p>
+<br />
+<br />
+<h3 align="center"> Congrats! You've Finished Installing osTicket.</h3>
+
