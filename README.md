@@ -93,9 +93,10 @@ Download the PHP manager file, and agree with all the terms. We've now downloade
 <br />
 
 <p>
-<img src="https://i.imgur.com/pmwpPEu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aDlN2c4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download the Rewrite Module file, agree with all the terms and it should now be installed onto the Computer.
 </p>
 <br />
+
