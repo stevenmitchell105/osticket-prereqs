@@ -227,3 +227,33 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”:
 	<img src="https://i.imgur.com/k7x9yGR.png" height="75%" width="100%" />
 </p>
 
+<h3 align="center">Continue Setting up osTicket in the browser (click Continue)</h3>
+<br />
+<p>
+	Name Helpdesk.
+</p>
+<p>
+	Default email (receives email from customers):
+</p>
+<p>
+	<img src="https://i.imgur.com/rvMvlNC.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/YszhIpl.png" height="75%" width="100%" />
+</p>
+<br />
+<br />
+<h3 align="center">Download and Install HeidiSQL</h3>
+<br />
+<p>
+	<img src="https://i.imgur.com/AEg0b2P.png" height="75%" width="100%" />
+</p>
+<p>
+	Create a new session, root/Password1.
+</p>
+<p>
+	Connect to the session:
+</p>
+<p>
+	<img src="https://i.imgur.com/9t51ApR.png" height="75%" width="100%" "/>
+</p>
+<p>
+
