@@ -61,3 +61,19 @@ Now, create a Windows 10 Virtual Machine (VM), typically with 2-4 Virtual CPUs. 
 Open your Remote Desktop Connection app on your computer and connect to your Virtual Machine that was created in Azure.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/LdVGE9a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now we need to install / Enable IIS in Windows. Go to your Search Bar > Type "Control Panel" > Click "Programs" > "Turn Windows features on or off" > Scroll down to "Internet Information Services (IIS).
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/LdVGE9a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once clicked, find the "Internet Information Services" expand it and then expand the "World Wide Web" tab. Afterward, expand the application Developer tab. Finally check the "CGI" button & press Ok. You will need CGI to download the PHP Manager. The PHP manager is a back-end web programming language that allows osTicket to run off a web browser.
+</p>
+<br />
