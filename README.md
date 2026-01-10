@@ -208,3 +208,22 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”:
 <p>
 	<img src="https://i.imgur.com/TEw71SD.png" height="75%" width="100%" />
 </p>
+
+<h3 align="center">Assign Permissions: ost-config.php</h3>
+<br />
+<p>
+	Disable inheritance -> Remove All:
+</p>
+<p>
+	<img src="https://i.imgur.com/1QtRWEF.png" height="75%" width="100%" />
+</p>
+<p>
+	New Permissions -> Everyone -> All:
+</p>
+<p>
+	<img src="https://i.imgur.com/YzsMXNX.png" height="75%" width="100%" />
+</p>
+<p>
+	<img src="https://i.imgur.com/k7x9yGR.png" height="75%" width="100%" />
+</p>
+
