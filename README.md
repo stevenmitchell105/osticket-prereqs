@@ -164,3 +164,28 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”:
 	<img src="https://i.imgur.com/3iXhNbi.png" height="75%" width="100%"/>
 </p>
 
+<h3 align="center">Enable Extensions in IIS: Note that some extensions are not enabled</h3>
+
+<p>
+	<img src="https://imgur.com/a/nrQo0kz" height="75%" width="100%"/>
+</p>
+
+<p>
+	Go back to IIS, sites -> Default -> osTicket.
+</p>
+<p>
+	Double-click PHP Manager:
+</p>
+
+<p>
+	Click “Enable or disable an extension”.
+</p>
+<p>
+	Enable: php_imap.dll.
+</p>
+<p>
+	Enable: php_intl.dll.
+</p>
+<p>
+	Enable: php_opcache.dll:
+</p>
