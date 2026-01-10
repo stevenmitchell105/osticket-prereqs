@@ -100,3 +100,37 @@ Download the Rewrite Module file, agree with all the terms and it should now be 
 </p>
 <br />
 
+<br/>
+<h3 align="center">CREATE DIRECTORY C:\PHP</h3>
+<br />
+
+<p>
+<img src="https://imgur.com/hvp56iB" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open File Explorer, type, "C:\" in the search bar, Right-click and create a new folder called, "PHP". Download php-7.3.8-nts-Win32-VC15-x86.zip from Files You Need to Download, Extract it by going to where you download the file, Right-click the PHP 7.3.8 file and press extract to the PHP Folder you just created.
+</p>
+
+<br/>
+<h3 align="center">VC_REDIST DOWNLOAD</h3>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Gx8ryBV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download and install VC_Redist, Agree with any terms and agreements and finish installing.
+</p>
+
+<h3 align="center">DOWNLOAD MySQL </h3>
+
+<p>
+<img src="https://i.imgur.com/IVpLg40.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zdhWXNx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download and install MySQL, Agree with any terms and agreements up until you get to the password portion. Here you can create a username and password for the database that you'll be using to store the Ticket Information used in osTicket. 
+
+</p>
+
+
