@@ -63,7 +63,7 @@ Open your Remote Desktop Connection app on your computer and connect to your Vir
 <br />
 
 <p>
-<img src="https://i.imgur.com/LdVGE9a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NE5ftYj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now we need to install / Enable IIS in Windows. Go to your Search Bar > Type "Control Panel" > Click "Programs" > "Turn Windows features on or off" > Scroll down to "Internet Information Services (IIS).
@@ -75,5 +75,27 @@ Now we need to install / Enable IIS in Windows. Go to your Search Bar > Type "Co
 </p>
 <p>
 Once clicked, find the "Internet Information Services" expand it and then expand the "World Wide Web" tab. Afterward, expand the application Developer tab. Finally check the "CGI" button & press Ok. You will need CGI to download the PHP Manager. The PHP manager is a back-end web programming language that allows osTicket to run off a web browser.
+</p>
+<br />
+
+<h3 align="center">Now Install PHP Manager</h3>
+<br />
+
+<p>
+<img src="https://i.imgur.com/pmwpPEu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download the PHP manager file, and agree with all the terms. We've now downloaded the PHP manager into our operating system.
+</p>
+<br />
+
+<h3 align="center">Install Rewrite Module</h3>
+<br />
+
+<p>
+<img src="https://i.imgur.com/pmwpPEu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download the Rewrite Module file, agree with all the terms and it should now be installed onto the Computer.
 </p>
 <br />
